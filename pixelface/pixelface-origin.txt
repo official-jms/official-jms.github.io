@@ -1,0 +1,18 @@
+PixelFace — Original Project Statement  
+====================================
+
+App ID: com.jms.pixelface  
+Project: PixelFace  
+Developer: J M S (also registered as JMS in package and code identifiers)  
+Official website: https://jmsdev.github.io/pixelface  
+Repository: https://github.com/jmsdev/pixelface  
+
+Created: 2025-09-22 (first internal build)  
+Public confirmation: 2025-09-26 (first build uploaded to Google Play Console, Closed testing)
+
+This document serves as public proof of authorship and original ownership of the PixelFace software, its branding elements, and related visual identity.  
+All content in this repository is protected by copyright © J M S.  
+Any reproduction, redistribution, or misrepresentation of this work without explicit permission is prohibited.
+
+Signature: J M S  
+Date of declaration: 2025-10-27
